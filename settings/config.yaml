@@ -1,0 +1,2 @@
+model_path: model_files/model/pegasus-samsum-model
+tokenizer_path: model_files/model/tokenizer
