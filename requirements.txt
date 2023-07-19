@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+numpy
+transformers
+transformers[sentencepiece]
+datasets
+torch
+dotmap
